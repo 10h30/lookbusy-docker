@@ -1,1 +1,1 @@
-/app/lookbusy/lookbusy -c 12-18 -r curve -n 2
+/app/lookbusy/lookbusy -c 15-20 -r curve -n 2
