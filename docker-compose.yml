@@ -1,0 +1,8 @@
+version: '3.3'
+services:
+    lookbusy:
+        container_name: lookbusy
+        restart: always
+        volumes:
+            - ./start.sh:/app/start.sh
+        image: lookbusy
